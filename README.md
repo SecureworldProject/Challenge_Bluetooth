@@ -4,7 +4,7 @@ This challenge checks if a device is located nearby the pc. The challenge return
 
 This allows to control if the PC is close to a specific device for security reasons. For example, it could monitor if an employee is next to a fixed device at the office or any other specific location, or if he is carrying a security device with him.
 
-It uses bluetooth, in particular ``pybluez` libary.
+It uses bluetooth, in particular `pybluez` library.
 
 ## Install pybluez in Windows 10
 
