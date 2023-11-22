@@ -1,6 +1,6 @@
 # Challenge_Bluetooth
 
-Este challenge comprueba si hay un dispositivo cerca del PC. El challenge devuelve la dirección 'name+MAC' del dispositivo objetivo si está cerca y 0000 en caso contrario.
+Este challenge comprueba si hay un dispositivo cerca del PC. El challenge devuelve la dirección 'name+MAC' del dispositivo objetivo si está cerca y 0000 en caso contrario. Se considera parental porque comprueba la condición de la existencia o no de un determinado dispositivo con un nombre determinado
 
 Esto permite controlar si el PC está cerca de un dispositivo específico por motivos de seguridad.
 Por ejemplo, podría controlar si un empleado está junto a un dispositivo fijo en la oficina o en cualquier otro lugar específico, o si lleva consigo un dispositivo de seguridad.
